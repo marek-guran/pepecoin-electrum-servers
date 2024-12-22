@@ -1,14 +1,17 @@
 {
   "wss": [
     "wss://electrum.pepelum.site:50004",
-    "wss://electrum.pepeblocks.com:50004"
+    "wss://electrum.pepeblocks.com:50004",
+    "wss://electrum.pepe.tips:50004"
   ],
   "ssl": [
     "ssl://electrum.pepelum.site:50002",
-    "ssl://electrum.pepeblocks.com:50002"
+    "ssl://electrum.pepeblocks.com:50002",
+    "ssl://electrum.pepe.tips:50002"
   ],
   "tcp": [
     "tcp://electrum.pepelum.site:50001",
-    "tcp://electrum.pepeblocks.com:50001"
+    "tcp://electrum.pepeblocks.com:50001",
+    "tcp://electrum.pepe.tips:50001"
   ]
 }
